@@ -1,0 +1,28 @@
+"Variable Name",Importance,Description,Values
+_STATE,–,"American State Name ","from 1-72"
+LADULT1,–,"Are you 18 or older?",
+COLGSEX,–,"Are you male or female?","1-Male
+2-Female"
+PHYSHLTH,–,"Number of Days Physical Health Not Good ",
+MENTHLTH,–,"Number of Days Mental Health Not Good ",
+HLTHPLN1,–,"Have any health care coverage ",
+EXERANY2,–,"Exercise in Past 30 Days ",
+SLEPTIM1,–,"On average, how many hours of sleep do you get in a 24-hour period?",
+CVDINFR4,–,"(Ever told) you had a heart attack, also called a myocardial infarction?",
+CVDCRHD4,–,"(Ever told) (you had) angina or coronary heart disease?",
+CVDSTRK3,–,"Ever Diagnosed with a Stroke ",
+DIABETE4,–,"(Ever told) you had diabetes",
+VETERAN3,–,"Are You A Veteran",
+INCOME2,–,"Income Level",
+PREGNANT,–,"Pregnancy Status",
+SMOKE100,–,"Smoked at Least 100 Cigarettes ",
+DRNK3GE5,–,"Binge Drinking",
+HIVRISK5,–,"Including fluid testing from your mouth, but not including tests you may have had for blood donation, have you ever been tested for H.I.V?",
+ECIGNOW,–,"Do you now use e-cigarettes or other electronic vaping products every day, some days, or not at all?",
+MARIJAN1,–,"During the past 30 days, on how many days did you use marijuana or cannabis?",
+CNCRDIFF,–,"How many different types of cancer have you had?",
+CNCRTYP1,–,"What type of cancer was it?",
+_URBSTAT,–,"Urban/Rural Status",
+_IMPRACE,–,"Imputed race/ethnicity value",
+_AGEG5YR,–,"Fourteen-level age category",
+_BMI5,–,"Body Mass Index (BMI)",
